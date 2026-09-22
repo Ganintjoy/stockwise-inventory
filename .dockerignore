@@ -1,0 +1,4 @@
+node_modules
+stockwise-server/node_modules
+stockwise-server/data
+.env
